@@ -29,6 +29,8 @@ public class Factory {
                     System.setProperty("webdriver.chrome.driver", "C://Users//blasz//Documents//chromedriver_win32//chromedriver.exe");
                     driver = new ChromeDriver();
                     break;
+                case "fire":
+                    break;
             }
 
         } catch (Exception exception) {
