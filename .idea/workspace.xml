@@ -11,6 +11,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="08cc5a8a-2488-47e6-a2e1-2a35f20641c1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CucumberWorkingCorrectly/src/test/java/factory/Factory.java" beforeDir="false" afterPath="$PROJECT_DIR$/CucumberWorkingCorrectly/src/test/java/factory/Factory.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,7 +45,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1590147000009</updated>
-      <workItem from="1590147002064" duration="770000" />
+      <workItem from="1590147002064" duration="2114000" />
     </task>
     <servers />
   </component>

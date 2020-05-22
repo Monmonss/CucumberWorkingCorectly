@@ -30,8 +30,12 @@ public class Factory {
                     driver = new ChromeDriver();
                     break;
                 case "fire":
+                    System.out.println("dsdf");
                     break;
                 case "IE":
+                    break;
+                case "deafult":
+                    System.out.println("dsedf");
                     break;
             }
 
