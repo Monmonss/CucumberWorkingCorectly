@@ -36,6 +36,10 @@ public class Factory {
                     break;
                 case "deafult":
                     System.out.println("dsedf");
+                    System.out.println("dsedf");
+                    System.out.println("dsedf");
+                    System.out.println("dsedf");
+                    
                     break;
             }
 
