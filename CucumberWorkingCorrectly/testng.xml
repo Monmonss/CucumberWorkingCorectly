@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="RRunner Classes" junit="true">
+
+    <test name="testNG">
+        <classes>
+    <class name="factory.RunCucumberTest"></class>
+</classes>
+
+    </test>
+</suite>
+<!--        runner class musi rozszerzac abstrakcyjna cucumber ng class-->
