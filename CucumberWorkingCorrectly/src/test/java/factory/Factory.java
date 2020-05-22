@@ -31,6 +31,8 @@ public class Factory {
                     break;
                 case "fire":
                     break;
+                case "IE":
+                    break;
             }
 
         } catch (Exception exception) {
